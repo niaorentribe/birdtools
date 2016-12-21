@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screen_size">分辨率：<xliff:g id="width_height">%1$s</xliff:g>&#160;</string>
+    <string name="screen_real_size">物理尺寸：<xliff:g id="width_height">%1$s</xliff:g>&#160;</string>
+    <string name="screen_density">屏幕密度：<xliff:g id="density">%1$s</xliff:g>&#160;</string>
+    <string name="screen_title">屏幕</string>
+</resources>
